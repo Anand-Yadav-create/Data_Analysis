@@ -2,7 +2,9 @@ import streamlit as st
 import pandas as pd
 import preprocessor,helper
 import plotly.express as px
-import seaborn as sms
+import seaborn as sns
+
+
 import matplotlib.pyplot as pt
 import plotly.figure_factory as ff
 import plotly.graph_objs as go
